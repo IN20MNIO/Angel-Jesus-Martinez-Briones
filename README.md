@@ -37,7 +37,7 @@ Soy **Licenciado en Física** con una fuerte pasión por convertir datos complej
 > **Stack:** R, Random Forest, SVM, Caret.  
 > Análisis y clasificación de tumores benignos y malignos utilizando minería de datos avanzada y métricas de evaluación (Curvas ROC/AUC).
 
-#### 🏨 [Análisis del Sector Turístico en México](TU_LINK_AL_REPOS)
+#### 🏨 [Análisis del Sector Turístico en México](https://github.com/IN20MNIO/Angel-Jesus-Martinez-Briones/tree/c0e721a0a808ef80b6734de9e7a314ac5141bc59/An%C3%A1lisis%20del%20Sector%20Tur%C3%ADstico%20en%20M%C3%A9xico)
 > **Stack:** Python, Pandas, Seaborn, Matplotlib.  
 > Procesamiento y limpieza de datos masivos del gobierno para identificar tendencias de estacionalidad y ocupación hotelera por estado.
 
