@@ -33,7 +33,7 @@ Soy **Licenciado en Física** con una fuerte pasión por convertir datos complej
 
 ### 📁 Proyectos Destacados
 
-#### 🩺 [Clasificación de Tumores de Mama](TU_LINK_AL_REPOS)
+#### 🩺 [Clasificación de Tumores de Mama](https://github.com/IN20MNIO/ANGEL-BRIONES/tree/a4067f8d68f71600e5f0f0f9735faff25f6b1c1f/Clasificaci%C3%B3n%20de%20Tumores%20de%20Mama)
 > **Stack:** R, Random Forest, SVM, Caret.  
 > Análisis y clasificación de tumores benignos y malignos utilizando minería de datos avanzada y métricas de evaluación (Curvas ROC/AUC).
 
