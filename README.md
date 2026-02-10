@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Hola, soy Angel Martinez 👋</h1>
+  <h1>Hola, soy Angel Jesus Martinez Briones 👋</h1>
   <p><strong>Físico | Data Scientist | AI Enthusiast</strong></p>
   
   <p>
-    <a href="https://www.linkedin.com/in/TU_USUARIO_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/angelmtzj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:amartinezb16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 </div>
@@ -15,7 +15,7 @@ Soy **Licenciado en Física** con una fuerte pasión por convertir datos complej
 
 - 🎓 Actualmente cursando el Diplomado en Técnicas Estadísticas y Minería de Datos (**UNAM**) y el curso de Data & AI (**Anáhuac**).
 - 🧪 Mi enfoque: Rigor científico aplicado al análisis de datos y modelado predictivo.
-- 🗣️ **English Level:** C1 (Avanzado).
+- 🗣️ **English Level:** C1.
 
 ---
 
@@ -41,12 +41,7 @@ Soy **Licenciado en Física** con una fuerte pasión por convertir datos complej
 > **Stack:** Python, Pandas, Seaborn, Matplotlib.  
 > Procesamiento y limpieza de datos masivos del gobierno para identificar tendencias de estacionalidad y ocupación hotelera por estado.
 
----
 
-### 📈 Estadísticas de GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="Estadísticas de Angel" />
-</p>
 
 ---
 
